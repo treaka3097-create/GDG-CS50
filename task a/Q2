@@ -1,0 +1,6 @@
+start
+input registered_sudents_list
+input seat_numbre
+if(seat_numbre in registered_sudents_list) {print "Entry allowed"}
+else {print "No Entry"}
+end
